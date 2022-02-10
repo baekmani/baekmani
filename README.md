@@ -2,11 +2,11 @@
 
 <h3 align="center">☾⋆⁺₊⋆💪 Tech Stack 💪⋆⁺₊⋆☾</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat-square&logo=RaspberryPi&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>  
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=RaspberryPi&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>
 </p>
 
 
@@ -15,7 +15,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badg&logo=OpenCV&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
 </p>
 
 
