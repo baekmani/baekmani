@@ -7,6 +7,7 @@
 <h2 align="center">>☾⋆⁺₊⋆💙 Used Tools 💙⋆⁺₊⋆☾</h2>
 <p align="center">
   <p align="center"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 </p>
 
 
