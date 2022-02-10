@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/vscode-5C3EE8?style=for-the-badge&logo=vscode&logoColor=white"/></a>
 </p>
 
 
