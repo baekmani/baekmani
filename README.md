@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Directrix%20Baek&fontSize=90) 
-
+#
 <h3 align="center">☾⋆⁺₊⋆💪 Tech Stack 💪⋆⁺₊⋆☾</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>  
@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/vscode-5C3EE8?style=for-the-badge&logo=vscode&logoColor=white"/></a>
 </p>
 
 
